@@ -22,9 +22,9 @@ I decided to setup local virtual lab to try phishing techniques and create a sce
 
 ### Installation
 
-1. Kali Linux Installation: 1. [https://www.kali.org/docs/installation/hard-disk-install/](https://www.kali.org/docs/installation/hard-disk-install/) 
-    
-                                  2. [https://www.kali.org/docs/virtualization/install-virtualbox-guest-vm/](https://www.kali.org/docs/virtualization/install-virtualbox-guest-vm/)
+1. Kali Linux Installation:
+    1. [https://www.kali.org/docs/installation/hard-disk-install/](https://www.kali.org/docs/installation/hard-disk-install/) 
+    2. [https://www.kali.org/docs/virtualization/install-virtualbox-guest-vm/](https://www.kali.org/docs/virtualization/install-virtualbox-guest-vm/)
     
 2. Windows 10 Installation: [https://www.groovypost.com/howto/windows-10-install-virtualbox/](https://www.groovypost.com/howto/windows-10-install-virtualbox/)
 3. Install "hMailServer": [https://medium.com/@coffmans/setup-your-own-simple-smtp-server-how-to-c9159cfc7934](https://medium.com/@coffmans/setup-your-own-simple-smtp-server-how-to-c9159cfc7934)
