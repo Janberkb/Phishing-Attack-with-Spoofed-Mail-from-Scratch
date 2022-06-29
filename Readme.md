@@ -1,4 +1,4 @@
-# Credentinal Harvesting Over Website and E-Mail Scam Attack Scenario
+# Phishing Website and Spoofed E-Mail Attack Scenario Blog Post
 
 ## Content
 
