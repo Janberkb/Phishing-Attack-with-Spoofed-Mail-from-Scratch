@@ -1,4 +1,4 @@
-# Phishing Website and Spoofed E-Mail Attack Scenario Blog Post
+# Phishing Attack with Spoofed Mail from Scratch
 
 ## Content
 
